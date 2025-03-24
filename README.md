@@ -32,7 +32,8 @@ Este projetinho foi desenvolvido com muito carinho usando **React Native** e est
   [## 🌷 Teste 1 - Lista de Tarefas](https://snack.expo.dev/@boninixs/teste1)
 
   [## 💕 Teste 2 - API de Clima Local](https://snack.expo.dev/@boninixs/teste2)
-Esse teste não funcionará no simulador "Web", é necessário ou ler o Qr code e abrir no app Snack expo do seu disposito ou simular com as opções de devices disponibilizadas no link.
+  
+<sup> _Esse teste não funcionará no simulador "Web", é necessário ou ler o Qr code e abrir no app Snack expo do seu disposito ou simular com as opções de devices disponibilizadas no link._</sup>
     
   [## ✨ Teste 3, 4 & 5 - Catálogo com Temas e Animações](https://snack.expo.dev/@boninixs/teste-3-4-5) 
 
