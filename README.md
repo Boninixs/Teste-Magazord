@@ -1,6 +1,6 @@
 # ✨ Hello, world! Bem-vindos ao meu projeto! ✨  
 
-Olá, leitor! 💖 Meu nome é **Aline**, mas pode me chamar de **Boni** tenho 21 anos e sou apaixonada por tecnologia, desenvolvimento mobile, back-end e, claro, uma boa documentação bem estruturada! 📚✨  
+Olá, leitor! 💖 Meu nome é **Aline**, mas pode me chamar de **Boni** tenho 21 anos e sou apaixonada por tecnologia, desenvolvimento mobile, back-end.📚✨  
 
 🌸 Sou natural de **São Paulo**, mas há 2 anos me mudei para **Ibirama** para seguir meu sonho de cursar **Engenharia de Software**. Está sendo uma jornada cheia de desafios, aprendizados
 
