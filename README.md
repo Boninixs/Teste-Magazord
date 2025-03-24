@@ -37,7 +37,7 @@ Este projetinho foi desenvolvido com muito carinho usando **React Native** e est
     
   [## ✨ Teste 3, 4 & 5 - Catálogo com Temas e Animações](https://snack.expo.dev/@boninixs/teste-3-4-5) 
 
-Além disso, o arquivo do projeto está disponível neste link para quem quiser baixar e rodar localmente! 📂💻  
+Além disso, o arquivo do projeto está disponível neste links a cima para quem quiser baixar e rodar localmente! 📂💻  
 
 Prontinho! Agora é só explorar a aplicação e se divertir! 💖🚀
 
